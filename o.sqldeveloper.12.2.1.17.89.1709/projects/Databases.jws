@@ -1,0 +1,52 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<jws:workspace xmlns:jws="http://xmlns.oracle.com/ide/project">
+   <list n="contentSets">
+      <string v="RaptorFiles"/>
+   </list>
+   <list n="listOfChildren">
+      <hash><url n="URL" path="IdeConnections#Banner-PPRD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PPRD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PPRD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-PROD.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#ODS-TEST.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Banner-PROD.jpr"/></hash>
+   </list>
+</jws:workspace>
